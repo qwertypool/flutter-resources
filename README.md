@@ -33,11 +33,13 @@
 <li><a href="https://flutter.dev/docs/get-started/flutter-for/web-devs" target="_top">  Flutter Official Documentations Web Devs</a></li>
 </ol>
   
-## Flutter Helpdesks - 
+## Flutter Groups / Developers / Helpdesks - 
   
 <ol>
 <li><a href="https://gitter.im/flutter/flutter">Gitter Chat </li>
 <li><a href="https://mindorks.com/connect-with-us">  Slack Mindorks </li>
 <li><a href="https://twitter.com/workingkills">  Twitter - Eugenio Marletti [Flutter GDE]</li>
 <li><a href="https://twitter.com/sethladd" target="_top">  Twitter - Seth Ladd [Product Manager @ Google] </a></li>
+<li><a href="https://twitter.com/nlycskn">  Twitter - Nilay [Flutter Developer Relations team]</li>
+<li><a href="https://www.facebook.com/groups/flutterdevelopment/?multi_permalinks=1191615607970793&notif_id=1624876439655372&notif_t=group_highlights&ref=notif">  Facebook - Flutter Development</li>
 </ol>
