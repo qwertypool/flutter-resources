@@ -43,3 +43,17 @@
 <li><a href="https://twitter.com/nlycskn">  Twitter - Nilay [Flutter Developer Relations team]</li>
 <li><a href="https://www.facebook.com/groups/flutterdevelopment/?multi_permalinks=1191615607970793&notif_id=1624876439655372&notif_t=group_highlights&ref=notif">  Facebook - Flutter Development</li>
 </ol>
+  
+## Flutter other resources to get started -  
+  <ol>
+<li><a href="https://codelabs.developers.google.com/?cat=flutter">  Google Codelabs </li>
+<li><a href="https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905"> Udacity Course - Free Course of flutter from google</li>
+<li><a href="https://flutterweekly.net/"> Flutter Weekly- A newsletter that brings the top Flutter posts, blogs, tutorials every week</li>
+</ol>
+  
+## Flutter already made components -
+<ol>
+<li><a href="https://flutterui.design/">  Flutter UI [Paid] </li>
+<li><a href="https://material.io/develop/flutter">  Material Design </li>
+<li><a href="https://gallery.flutter.dev/#/">  Flutter Gallery</li>
+</ol>
