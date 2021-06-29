@@ -1,4 +1,6 @@
 # flutter-important-resources
+Find important flutter resources here & also check my insta for more. Star the repo if you found it useful!
+
 ## Github Resources -
 <ol>
 <li>https://github.com/Solido/awesome-flutter - A list that curates the best Flutter libraries, tools, tutorials, articles and more.</li>
