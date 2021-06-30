@@ -38,6 +38,7 @@ Find important flutter resources here & also check my insta for more. Star the r
 ## Flutter Groups / Developers / Helpdesks - 
   
 <ol>
+<li><a href="https://flutter.dev/community">Flutter community </li>
 <li><a href="https://gitter.im/flutter/flutter">Gitter Chat </li>
 <li><a href="https://mindorks.com/connect-with-us">  Slack Mindorks </li>
 <li><a href="https://twitter.com/workingkills">  Twitter - Eugenio Marletti [Flutter GDE]</li>
